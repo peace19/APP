@@ -1,0 +1,29 @@
+/* CSS Document */
+#video-background {
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: 1;
+}
+
+
+form{position:absolute; width:350px; top:35%; left:36%;z-index:2}
+
+.trt{ font-size:16px; 
+	font-weight:bold; 
+	color:#FFFFFF;
+}
+
+a{font-size:16px;
+  font-weight:bold;
+  color:#FFFFFF;
+}
+
+a:hover{font-size:16px; 
+        font-weight:bold; 
+        color: #D90508;
+}
